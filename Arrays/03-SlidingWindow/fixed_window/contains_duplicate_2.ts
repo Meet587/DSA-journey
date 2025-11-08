@@ -12,13 +12,6 @@ function containsNearbyDuplicate(nums: number[], k: number): boolean {
 
     */
 
-  /* ----- better solution ----
-
-    better solution can be first sort the array (nlogn)
-    and after that traver array (n) and see if there is any duplicate
-    O(nlogn + n)
-    */
-
   /* ------ optimal solution ------ */
 
   const st = new Set<number>();
