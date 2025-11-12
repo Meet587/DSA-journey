@@ -5,3 +5,5 @@
 5. Two Sum II - Input Array Is Sorted : twoSum
 6. Remove Duplicates from Sorted Array : removeDuplicates
 7. Contains Duplicate II : containsNearbyDuplicate
+8. Squares of a Sorted Array : sortedSquares
+9. 3Sum : threeSum
