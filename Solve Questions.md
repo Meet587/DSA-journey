@@ -7,3 +7,5 @@
 7. Contains Duplicate II : containsNearbyDuplicate
 8. Squares of a Sorted Array : sortedSquares
 9. 3Sum : threeSum
+10. 3Sum Closest : threeSumClosest
+11. Triplets with Smaller Sum : countTriplets
