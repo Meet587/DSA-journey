@@ -1,3 +1,5 @@
+### Two Pointers
+
 1. Product of Array Except Self : productExceptSelf
 2. Roman to Integer : romanToInt
 3. Best Time to Buy and Sell Stock : maxProfit
@@ -9,3 +11,8 @@
 9. 3Sum : threeSum
 10. 3Sum Closest : threeSumClosest
 11. Triplets with Smaller Sum : countTriplets
+12. Sort Colors - Dutch National algo : sortColors
+
+---
+
+### Sliding Window
