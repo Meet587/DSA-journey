@@ -16,3 +16,6 @@
 ---
 
 ### Sliding Window
+
+1. Max Sum Subarray of size K : maxSubarraySum
+2. Maximum Average Subarray I
