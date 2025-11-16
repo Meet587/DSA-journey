@@ -12,18 +12,15 @@ function removeDuplicates(nums: number[]): number {
 }
 
 function removeDuplicates1(nums: number[]): number {
-  if (nums.length === 0) return 0;
-  if (nums.length === 1) return 1;
-  let i = 0;
-  let j = 1;
-  while (j < nums.length) {
-    if (nums[i] === nums[j]) {
-      j++;
-    } else if (nums[i] < nums[j]) {
-      i++;
-      nums[i] = nums[j];
-      j++;
+   let low = 0;
+   let high = 0;
+
+    while(high <nums.length){
+        high++;
+        if(nums[low] !== nums[high]){
+            nums[++low] = nums[high];
+        }
     }
-  }
-  return i + 1;
-}
+
+   return low;
+};
