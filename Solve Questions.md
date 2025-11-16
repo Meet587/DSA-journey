@@ -18,4 +18,5 @@
 ### Sliding Window
 
 1. Max Sum Subarray of size K : maxSubarraySum
-2. Maximum Average Subarray I
+2. Maximum Average Subarray I : findMaxAverage
+3. Minimum Size Subarray Sum : minSubArrayLen
