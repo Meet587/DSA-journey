@@ -22,3 +22,13 @@
 3. Minimum Size Subarray Sum : minSubArrayLen
 4. Longest Substring with K Uniques : longestKSubstr
 5. Fruit Into Baskets : totalFruit
+6. Longest Substring Without Repeating Characters : lengthOfLongestSubstring
+7. Longest Repeating Character Replacement : characterReplacement
+8. Minimum Window Substring : minWindow
+
+---
+
+### Link List
+
+- slow and fast pointers:
+  1. Linked List Cycle : hasCycle
