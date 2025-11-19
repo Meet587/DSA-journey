@@ -12,6 +12,7 @@
 10. 3Sum Closest : threeSumClosest
 11. Triplets with Smaller Sum : countTriplets
 12. Sort Colors - Dutch National algo : sortColors
+13. Happy Number 
 
 ---
 
@@ -32,3 +33,4 @@
 
 - slow and fast pointers:
   1. Linked List Cycle : hasCycle
+  2. Middle of the Linked List : middleNode
