@@ -1,3 +1,7 @@
+### Traversal
+
+1. Longest Consecutive Sequence : longestConsecutive
+
 ### Two Pointers
 
 1. Product of Array Except Self : productExceptSelf
@@ -12,7 +16,8 @@
 10. 3Sum Closest : threeSumClosest
 11. Triplets with Smaller Sum : countTriplets
 12. Sort Colors - Dutch National algo : sortColors
-13. Happy Number 
+
+- slow and fast pointers: 13. Happy Number : isHappy 14. Find the Duplicate Number : findDuplicate
 
 ---
 
@@ -34,3 +39,4 @@
 - slow and fast pointers:
   1. Linked List Cycle : hasCycle
   2. Middle of the Linked List : middleNode
+  3. Linked List Cycle II : detectCycle
