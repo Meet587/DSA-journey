@@ -17,7 +17,12 @@
 11. Triplets with Smaller Sum : countTriplets
 12. Sort Colors - Dutch National algo : sortColors
 
-- slow and fast pointers: 13. Happy Number : isHappy 14. Find the Duplicate Number : findDuplicate
+- ### slow and fast pointers.
+  13. Happy Number : isHappy
+  14. Find the Duplicate Number : findDuplicate
+  15. Linked List Cycle : hasCycle
+  16. Middle of the Linked List : middleNode
+  17. Linked List Cycle II : detectCycle
 
 ---
 
@@ -34,9 +39,6 @@
 
 ---
 
-### Link List
+### Kadane’s pattern
 
-- slow and fast pointers:
-  1. Linked List Cycle : hasCycle
-  2. Middle of the Linked List : middleNode
-  3. Linked List Cycle II : detectCycle
+1. Maximum Subarray : maxSubArray , smallestSumSubarray
